@@ -1,2 +1,9 @@
-# imersao-alura
-Spotify  - Imersão front-end Alura
+# Imersao Alura
+
+Spotify - Imersão front-end Alura
+
+## HTML - CSS - JAVASCRIPT
+
+<img src="./imagem.png">
+
+<img src="./imagem-filtro.png">
