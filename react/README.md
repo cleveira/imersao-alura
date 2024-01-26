@@ -1,4 +1,4 @@
-# Imersao Alura
+# Imersão Alura
 
 Spotify - Imersão front-end Alura
 
